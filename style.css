@@ -5,6 +5,11 @@ html {
   height: 100%; 
 }
 
+#mc_embed_signup{
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
